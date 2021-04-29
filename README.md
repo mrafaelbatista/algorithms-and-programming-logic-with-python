@@ -14,9 +14,9 @@ I start classes to talk about logic, programming logic, and algorithmics. Next, 
 <ul>
     <li>Fundamental of the construct of algorithms and programs</li>
     <li>Data types, variables, and constants</li>
-    <li>Operators: aritimetic, relational, and logic</li>
-    <li>Math expression, and formuls</li>
-    <li>Control struct: sequetial, simple</li> <li>conditional branch, compound conditional branch</li>
+    <li>Operators: arithmetic, relational, and logic</li>
+    <li>Math expression, and formulas</li>
+    <li>Control struct: sequetial, simple conditional branch, compound conditional branch</li>
     <li>Loop struct: while, and for</li>
     <li>Vectors and Matrix</li>
     <li>Subprograms</li>
